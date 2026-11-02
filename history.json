@@ -1118,6 +1118,15 @@
     "TorrentLeech Matches": 0
    },
    "keywords": {}
+  },
+  {
+   "date": "2026-11-02",
+   "topics": {
+    "TorrentLeech Matches": 1
+   },
+   "keywords": {
+    "digger": 1
+   }
   }
  ]
 }
