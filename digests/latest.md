@@ -1,6 +1,6 @@
-# 📰 Digest Media — 2026-11-14
+# 📰 Digest Media — 2026-11-15
 
-_0 berita cocok · 950 artikel dipindai dari 1 feed · dibuat 14 Nov 2026 09:10 WIB_
+_0 berita cocok · 576 artikel dipindai dari 1 feed · dibuat 15 Nov 2026 08:41 WIB_
 
 Tidak ada berita yang cocok dengan topik hari ini.
 
